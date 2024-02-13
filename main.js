@@ -33,7 +33,7 @@ AFRAME.registerComponent('main', {
 
       this.el.sceneEl.appendChild(cubeEl);
 
-      console.log(cubeEl.geometry);
+      //console.log(cubeEl.geometry);
     }
     // console.log(this);
     // console.log(this.el);
